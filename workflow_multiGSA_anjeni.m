@@ -1,9 +1,9 @@
-%% 1. REGIONAL SENSITIVITY ANALYSIS OF THE PED MODEL IN THE ANJENI WATERSHED
-disp('REGIONAL SENSITIVITY ANALYSIS OF THE PED MODEL IN THE ANJENI WATERSHED')
+%% 1. GLOBAL SENSITIVITY ANALYSIS OF THE PED MODEL IN THE ANJENI WATERSHED
+disp('GLOBAL SENSITIVITY ANALYSIS OF THE PED MODEL IN THE ANJENI WATERSHED')
 
 % This script provides an application example of Regional Sensitivity
-% Analysis (RSA) (see help RSA_indices_thres.m for more details about this
-% Uncertainty Analysis method and references).
+% Analysis (RSA) and the PAWN methods (see SAFE toolbox help for more
+% details about this analyses methods and references).
 %
 % MODEL AND STUDY AREA
 %
